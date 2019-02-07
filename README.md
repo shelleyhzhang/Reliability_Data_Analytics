@@ -1,2 +1,5 @@
 # reliability_analytic
-This is a collection of MATLAB codes reading in cvs based logs and generate analytical metrics and benchmarks for longitudinal tracking of the performance of fleet in service.
+This is a collection of MATLAB codes that
+1) Import cvs based event logs systemetically into standardized format
+2) Analyzing benchmark metrics for longitudinal tracking of the performance of fleet in service.
+3) Export into user-friendly Excel format based on selection of time period and systems of interest .
